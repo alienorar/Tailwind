@@ -719,6 +719,18 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[60\] {
+  margin-top: 60;
+}
+
+.mt-\[60px\] {
+  margin-top: 60px;
+}
+
 .box-border {
   box-sizing: border-box;
 }
